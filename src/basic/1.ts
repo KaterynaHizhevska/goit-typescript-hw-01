@@ -11,3 +11,4 @@ const empty: null = null;
 const callback: (a: number) => number = (a) => {
     return 100 + a
 };
+
